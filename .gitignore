@@ -4,3 +4,4 @@
 vlcplay/vlcplay/bin/*
 *.txt
 vlcplay/vlcplay/obj/Debug/*
+*.suo
